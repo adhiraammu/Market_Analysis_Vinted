@@ -6,9 +6,12 @@ Vinted is a leading online marketplace that specializes in the buying, selling, 
 Quick links:
 
 SQL Queries:
-[01. Data Cleaning](https://github.com/adhiraammu/Market_Analysis_Vinted/blob/main/Data_Cleaning.sql)
-[02. Data Exploration](https://github.com/adhiraammu/Market_Analysis_Vinted/blob/main/Data_Exploration.sql)
-[03. Data Analysis](https://github.com/adhiraammu/Market_Analysis_Vinted/blob/main/Data_Analysis.sql)
+
+[01. Data Cleaning](https://github.com/adhiraammu/Market_Analysis_Vinted/blob/main/Data_Cleaning.sql).
+
+[02. Data Exploration](https://github.com/adhiraammu/Market_Analysis_Vinted/blob/main/Data_Exploration.sql).
+
+[03. Data Analysis](https://github.com/adhiraammu/Market_Analysis_Vinted/blob/main/Data_Analysis.sql).
 
 Data Visualizations: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjE0YTdmMTYtOTBiNy00OTBkLWEzODgtMTg1MzdlZmI1ZGJkIiwidCI6ImVlMmQ2ZDcyLTk1MzUtNDI0Mi1hMDc3LWFjZjE4NTc4MmY5YiIsImMiOjF9)
 
