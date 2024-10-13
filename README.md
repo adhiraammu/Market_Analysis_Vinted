@@ -24,16 +24,20 @@ In this project, I utilized Python's requests library to extract product listing
 6.Rows with missing values in price_amount and price_currency were checked for completeness to maintain data accuracy.
 
 ## Step 3:Data Exploration
- This table shows the minimum, maximum, and average prices of products in the product table while counting the total number of products listed.
+ 1.This table shows the minimum, maximum, and average prices of products in the product table while counting the total number of products listed.
+
  ![image](https://github.com/user-attachments/assets/c1f626f5-6bc9-4b6a-b882-674ea03ec1ad)
 
- This table shows the number of products listed by each seller in the product table, grouping the results by seller username and ordering them in descending order based on the number of products.
+ 2.This table shows the number of products listed by each seller in the product table, grouping the results by seller username and ordering them in descending order based on the number of products.
+ 
  ![image](https://github.com/user-attachments/assets/afd39265-8874-4eee-8757-86ced3a4ca28)
  
- This table shows the product ID, title, price amount, and currency for all items listed by the seller 'marvelo'.
+ 3.This table shows the product ID, title, price amount, and currency for all items listed by the seller 'marvelo'.
+ 
  ![image](https://github.com/user-attachments/assets/f8a37d41-cfab-49b1-9f93-4d9f8d2f7aa4)
  
- This table shows the average price of products for each brand in the product table, ordering the results in descending order based on the average price.
+ 4. This table shows the average price of products for each brand in the product table, ordering the results in descending order based on the average price.
+
  ![image](https://github.com/user-attachments/assets/333b890c-3ba9-4b2a-9365-96e50fe7279d)
 
 ## Step 4: Data Analysis
