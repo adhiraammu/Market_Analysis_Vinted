@@ -25,7 +25,7 @@ In what ways can Vinted enhance seller engagement among low-touch sellers to dri
 
 ## Step 1: Data Extraction
 In this project, I utilized Python's requests library to extract product listings from the Vinted using Rapid API. I then normalized the JSON responses into a structured format using the pandas library, appending additional columns for country and page number to provide context. Finally, I saved the aggregated data into a CSV file and connected to a database using SQLAlchemy, setting it up for further analysis
-![image](https://github.com/user-attachments/assets/27106335-27c8-40c7-a267-166414205762)
+![image](https://github.com/user-attachments/assets/be52490a-9754-41a5-b683-f2630d45c8b2)
 
 ## Step2: Data Cleaning
 1.All columns were renamed for consistency and clarity, with changes such as price.amount to price_amount and seller.userId to seller_user_id.
