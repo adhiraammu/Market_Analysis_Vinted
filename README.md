@@ -85,6 +85,7 @@ The core analysis question is: How can we improve engagement and performance amo
 
 ## Actionable Marketing Strategy:
 Based on this analysis, several recommendations can be made to help drive engagement among low-touch sellers:
+
  1.Brand-Focused Recommendations: Create targeted communications that inform low-touch sellers about high-demand brands (like Nike, Microsoft, etc.) that they could consider adding to their inventory. Provide insights on current market trends and the success of these brands on the platform.
  2.Targeted Email Campaigns:Craft targeted email campaigns to top N low-touch sellers who are driving exceptional profits, highlighting their current success and the potential benefits of expanding their inventory. 
 3.Reduced Listing Fees: There is a clear correlation between listing fees and seller revenue; as fees increase, the revenue potential for high-volume sellers often grows. Instead of implementing a blanket reduction in fees, we propose a tiered fee structure where sellers pay lower fees only after reaching a specified number of product listings. This approach can drive engagement among low-touch sellers while maintaining revenue stability for the platform.
