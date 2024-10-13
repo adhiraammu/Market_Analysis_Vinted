@@ -25,43 +25,45 @@ In this project, I utilized Python's requests library to extract product listing
 
 ## Step 3:Data Exploration
  This table shows the minimum, maximum, and average prices of products in the product table while counting the total number of products listed.
+ ![image](https://github.com/user-attachments/assets/c1f626f5-6bc9-4b6a-b882-674ea03ec1ad)
 
  This table shows the number of products listed by each seller in the product table, grouping the results by seller username and ordering them in descending order based on the number of products.
-
- This table shows the top 10 sellers with the highest number of product listings from the product table, displaying each seller's username along with their total listings.
-
+ ![image](https://github.com/user-attachments/assets/afd39265-8874-4eee-8757-86ced3a4ca28)
+ 
  This table shows the product ID, title, price amount, and currency for all items listed by the seller 'marvelo'.
-
+ ![image](https://github.com/user-attachments/assets/f8a37d41-cfab-49b1-9f93-4d9f8d2f7aa4)
+ 
  This table shows the average price of products for each brand in the product table, ordering the results in descending order based on the average price.
+ ![image](https://github.com/user-attachments/assets/333b890c-3ba9-4b2a-9365-96e50fe7279d)
 
 ## Step 4: Data Analysis
  1.This table shows the sellers with fewer listings but higher average prices. 
+ ![image](https://github.com/user-attachments/assets/89052890-8427-4f71-8743-853f27b1969e)
 
  2.The table displays the profitability metrics of low-touch sellers (those with fewer than three products listed), including their product count, total fees, total revenue, and calculated profit, ordered by profit in ascending order.
+ ![image](https://github.com/user-attachments/assets/f5a122af-f9c1-43e5-8592-5b93fcdbe982)
 
- 3.This table shows the most profitable brands across low-touch sellers and suggest opportunities for inventory expansion
+ 3.This table shows the most profitable brands across low-touch sellers and suggest opportunities for inventory expansion.
+ ![image](https://github.com/user-attachments/assets/d4a3d7f7-e9ae-4ae9-b4c7-9de482bceb2e)
 
  4.This table shows sellers who already have high revenue with a few products and could benefit from expanding their product portfolio.
+ ![image](https://github.com/user-attachments/assets/807f3b1c-f210-496c-8c4d-3b33b8e94c56)
+ 
 
 ## Step5: Data Visualization- Power BI
 
 The data has been extracted and queried from multiple relevant tables to analyze low-touch sellers' engagement and performance. This analysis aims to understand how low-touch sellers can be motivated to increase their engagement and drive more sales.
 
 The core analysis question is: How can we improve engagement and performance among low-touch sellers to boost product sales on the platform?
-
+![image](https://github.com/user-attachments/assets/9a680493-2742-4eb7-ae73-7b1177b53a86)
 
 1. Low-touch sellers make up a significant portion of total sellers, accounting for 58.17% of all sellers. Despite their lower activity, they contribute a considerable share of revenue, particularly in high-value product categories. High-revenue low-touch sellers such as evaoconnell ($210.7 revenue) and dennykenny ($163.45) indicate the potential these sellers hold. May want to encourage them to list more products to take advantage of the high demand they seem to be getting. 
 
-
 2. Brands like Boss, May Faire Moon, and Microsoft are generating high average revenue, which shows the demand for premium brands. To help the low touch customers ask to focus more on these products to generate revenue
-
-
 
 3. A significant portion of sellers (58.17%) are low-touch, meaning the majority of sellers on the platform have fewer interactions but can still contribute meaningfully to revenue. However, they are underutilized in terms of product count.
 
-
 4. Sellers like dennykenny have made significant profits ($310) despite a relatively small fee ($16.9) and low product count, showing that even with fewer listings, sellers can be quite profitable. However, there's a bottleneck—many sellers may not be aware of how much profit they could potentially make by increasing engagement or expanding their listings.
-
 
 5.Sellers who pay higher listing fees tend to earn higher profits. This suggests that sellers investing more in promoting their products are reaping the benefits of increased visibility and higher sales.
 
