@@ -10,7 +10,7 @@ SQL Queries:
 02. Data Exploration
 03. Data Analysis
 
-Data Visualizations: [Tableau](https://public.tableau.com/app/profile/adhira.ranjith.kumar/viz/Supplychain_dashboard/Story1?publish=yes)
+Data Visualizations: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjE0YTdmMTYtOTBiNy00OTBkLWEzODgtMTg1MzdlZmI1ZGJkIiwidCI6ImVlMmQ2ZDcyLTk1MzUtNDI0Mi1hMDc3LWFjZjE4NTc4MmY5YiIsImMiOjF9)
 
 ## Objective
 The primary goal of this analysis is to conduct a comprehensive marketing analytics project for Vinted, leveraging its dataset to uncover actionable insights. This analysis will focus on understanding customer behavior, identifying trends in product listings, and exploring factors influencing seller engagement.Lets consider the company’s future growth hinges on maximizing sales from low-touch sellers, who typically list fewer products. It is important to understand how low-touch sellers differ from high-touch sellers in terms of listing behavior, revenue generation, and profitability.From these insights, I aim to develop a marketing strategy that encourages low-touch sellers to increase their product listings while preserving their premium market appeal. Before advancing with our recommendations,it is important to show compelling, data-driven insights supported by visualizations to illustrate how these seller segments can be optimized for higher profitability.
